@@ -1,0 +1,21 @@
+{
+  "name": "addon",
+  "version": "1.0.0",
+  "description": "A replit based terminal",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "addon",
+    "terminal",
+    "electron",
+    "replit",
+    "app"
+  ],
+  "author": "Arjun J",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^21.2.0"
+  }
+}
